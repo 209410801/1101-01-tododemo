@@ -7,7 +7,7 @@ function App_01() {
       <h1>My Todos</h1>
       <Todo_01 text='Learn React'/>
       <Todo_01 text='hello world'/>
-      <Todo_01 text='I hate you'/>
+      <Todo_01 text='i love you'/>
     </div>
   );
 }

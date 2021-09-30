@@ -1,7 +1,7 @@
 function Card() {
     return(
         <div>
-            <p>My Card3</p>
+            <p>My Card</p>
         </div>
     )
 }
