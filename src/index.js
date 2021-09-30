@@ -2,11 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App_01 from './App_01';
+import Card from './Card';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <App_01 />
+    <Card />
   </React.StrictMode>,
   document.getElementById('root')
 );
